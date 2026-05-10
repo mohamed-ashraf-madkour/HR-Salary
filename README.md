@@ -146,7 +146,7 @@ Allows dynamic exploration of the data.
 
 # 📷 Dashboard Preview
 
-![Salary Dashboard](screenshots/salary_dashboard.png)
+![Salary Dashboard](screenshots/Salary_Dashboard.png)
 
 --------------------------------------------------------------------------------------------------
 
